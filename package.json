@@ -1,0 +1,18 @@
+{
+  "name": "escape-string-regexp-cjs",
+  "version": "0.1.0",
+  "description": "Exposes the 'escape-string-regexp' module as a cjs dependency",
+  "main": "index.js",
+  "keywords": [
+    "cjs",
+    "escape-string-regexp"
+  ],
+  "author": "Phil Olson",
+  "license": "SEE LICENSE IN license.txt",
+  "peerDependencies": {
+    "escape-string-regexp": ">=5.x"
+  },
+  "dependencies": {
+    "fix-esm": "^1.0.1"
+  }
+}
